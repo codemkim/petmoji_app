@@ -1,4 +1,4 @@
-# pickar_app
+# petmoji_app
 
 A new Flutter project.
 
